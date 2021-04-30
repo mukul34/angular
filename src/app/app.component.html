@@ -12,8 +12,8 @@
 
       </div>
       <div class="paras container" *ngIf="showPara">
-        <div class="para" *ngFor="let P of para; let i=index; ">
-          <p [ngClass]="{blue:(i+1)%5==0}">
+        <div [ngClass]="{blue:(i+1)%5==0}" class="para" *ngFor="let P of para; let i=index; ">
+          <p >
             {{P.data}}
           </p>
         </div>
