@@ -41,7 +41,7 @@ button{
 
 
 .para{
-    height:5rem;
+    min-height:5rem;
     width:90vw;
     background-color:#fbe0c4;
     margin-left:  1rem;
