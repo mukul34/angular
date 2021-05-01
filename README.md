@@ -2,7 +2,7 @@
 
 #Setting up the project
 
-Run 'npm start' in the project directory and then 'npm start' or 'ng serve'. 
+Run 'npm install' in the project directory and then 'npm start' or 'ng serve'. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
 
